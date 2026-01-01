@@ -22,7 +22,7 @@ A clean and structured Express.js starter template for building scalable REST AP
 - Express.js
 - dotenv
 - nodemon
-- JavaScript (CommonJS or ES Modules)
+- Typescript
 
 > Database and authentication are intentionally not opinionated.
 
